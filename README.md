@@ -1,8 +1,11 @@
 # Tricorder SAO Documentation
 
+## YOUTUBE TUTORIAL / DEMONSTRATION
+https://youtu.be/2OyAoY5tNzU
+
 ## Introduction
 
-Welcome! This document provides instructions and information about the Tricorder SAO. This guide will walk you through the different components, versions, and how to use them. For more detailed instructions, demonstrations, and additional information, please visit the [GitHub repository](#).
+Welcome! This document provides instructions and information about the Tricorder SAO. This guide will walk you through the different components, versions, and how to use them. For more detailed instructions, demonstrations, and additional information.
 
 ## What's Inside the Bag?
 
