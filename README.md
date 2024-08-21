@@ -1,5 +1,8 @@
 # Tricorder SAO Documentation
 
+## PURCHASE HERE
+https://www.tindie.com/products/35561/
+
 ## YOUTUBE TUTORIAL / DEMONSTRATION
 https://youtu.be/2OyAoY5tNzU
 
